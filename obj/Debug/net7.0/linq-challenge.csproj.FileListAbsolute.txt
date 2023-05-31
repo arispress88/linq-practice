@@ -1,0 +1,15 @@
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\bin\Debug\net7.0\linq-challenge.exe
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\bin\Debug\net7.0\linq-challenge.deps.json
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\bin\Debug\net7.0\linq-challenge.runtimeconfig.json
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\bin\Debug\net7.0\linq-challenge.dll
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\bin\Debug\net7.0\linq-challenge.pdb
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\obj\Debug\net7.0\linq-challenge.csproj.AssemblyReference.cache
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\obj\Debug\net7.0\linq-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\obj\Debug\net7.0\linq-challenge.AssemblyInfoInputs.cache
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\obj\Debug\net7.0\linq-challenge.AssemblyInfo.cs
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\obj\Debug\net7.0\linq-challenge.csproj.CoreCompileInputs.cache
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\obj\Debug\net7.0\linq-challenge.dll
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\obj\Debug\net7.0\refint\linq-challenge.dll
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\obj\Debug\net7.0\linq-challenge.pdb
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\obj\Debug\net7.0\linq-challenge.genruntimeconfig.cache
+C:\Users\Arnold\workspace\csharp\exercises\linq-challenge\obj\Debug\net7.0\ref\linq-challenge.dll
